@@ -11,15 +11,23 @@ Immunity. [im] prefix: not. [unity] name: :poop:
 * Stand on the shoulders of the best open source projects
 * Scalable from solo indies to AAA teams
 * Modern architecture
+* Modern features
 * Cross-platform
 * Extensible
-* Designed by industry veterans, for the industry
+* Performance by design, by default
+* Fast iteration the entire team
+* High developer quality-of-life
+* Integrated with professional tools
+* Created by industry veterans, for the industry
+* Develop in parallel with commercial games
 
 ## What the Immunity Engine is not
 
 * Not designed to be your first engine
+* Not designed to have everything and the kitchen sink
 * Not targetting low-end platforms
 * Commercial. It's up to you to pay it forward.
+* Some optional professional features are necessarily behind commercial paywalls. Console development. Hot reloading and code patching. Advanced performance profiling.
 
 ## Getting started
 
@@ -31,13 +39,19 @@ Immunity. [im] prefix: not. [unity] name: :poop:
 
 ## License
 
-Immunity Engine is licensed under the Apache Licence 2.0, to provide assurance to its users (you!) that they can use the code unencumbered by patent issues from its original authors. Otherwise, this license provides similar freedoms to the MIT and BSD licenses. It is not necessary to release the changes you make to the Immunity Engine nor your own projects that use it, but contributing fixes, improvements, and features back is greatly appreciated and helps everyone.
+Immunity Engine is licensed under the permissive Apache Licence 2.0, to provide assurance to its users (you!) that they can use the code unencumbered by patent issues from its authors. Otherwise, this license provides similar freedoms to the MIT and BSD 2-Clause licenses. It is not necessary to release the changes you make to the Immunity Engine nor your own projects that use it, but contributing fixes, improvements, and features back is greatly appreciated and helps everyone.
+
 
 [Apache License 2.0 at tl;drLegal](https://www.tldrlegal.com/license/apache-license-2-0-apache-2-0)
 
 [Apache License 2.0 at Choose a License by GitHub](https://choosealicense.com/licenses/apache-2.0/)
 
 
+
 [Apache License 2.0](https://apache.org/licenses/LICENSE-2.0.txt)
 
 [Apache's License FAQ](https://apache.org/foundation/license-faq.html)
+
+### Dependencies
+
+Immunity Engine is built on the shoulders of other great open source projects, and as such those dependencies have their own licenses. All dependencies do also have permissive licenses however, such as the MIT License or the BSD 2-Clause license.
