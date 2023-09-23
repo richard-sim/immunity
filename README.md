@@ -2,9 +2,11 @@
 
 ![Immunity Engine Logo](./logos/immunity-logo-256.png "Immunity Engine")
 
-Immunity is an open source game engine that aims to provide immunity to your game, team, company, and industry from the whims of others. Get involved; fork the repo, enhance it, and contribute back to pay it forward.
+Immunity is an open source game engine that aims to provide immunity to your game, team, company, and industry from the whims of others. Don't put your future at risk by being dependent on companies that could pull the rug out from under your feet. As the saying goes; fool me once, shame on you. Fool me twice, shame on me.
 
 Immunity. [im] *prefix*: not. [unity] *name*: :poop:
+
+Get involved; fork the repo, enhance it, and contribute back to pay it forward.
 
 ## High-level goals of the Immunity Engine
 
